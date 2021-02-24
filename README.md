@@ -1,6 +1,6 @@
 This repo contains code to extend/replicate the dataset present in the Kaggle [Bengali.AI Handwritten Grapheme Classification](www.kaggle.com/c/bengaliai-cv19). For the dataset, codes, discussions and leaderboards, visit the Kaggle competition page. 
 
-The paper with added appendix can be found [here](https://github.com/AhmedImtiazPrio/ICDAR2021submission/blob/master/paper%2BAppendix.pdf).
+The paper with added appendix can be found [here](https://bengali.ai/wp-content/uploads/ICDAR2021Appendix.pdf).
 
 ## Common Handwritten Graphemes in Context
 #### Project Structure
